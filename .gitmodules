@@ -1,0 +1,6 @@
+[submodule "secondbrain"]
+	path = secondbrain
+	url = https://github.com/lyric2249/secondbrain.git
+[submodule "/home/estra4159/ps/dockers/secondbrain"]
+	path = /home/estra4159/ps/dockers/secondbrain
+	url = https://github.com/lyric2249/secondbrain.git
